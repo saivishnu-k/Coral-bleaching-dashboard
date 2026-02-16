@@ -151,7 +151,3 @@ Users can perform what if analysis and generate region specific conservation rec
 (To be added after deployment)
 
 🔗 [https://reef-dashboard.streamlit.app/](url)
-
----
-
-## Repository Structure
