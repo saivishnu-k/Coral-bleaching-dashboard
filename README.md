@@ -1,6 +1,5 @@
-# Coral-bleaching-dashboard
-Machine learning dashboard for predicting coral reef bleaching using environmental and climate data.
 # Coral Bleaching Prediction Dashboard (R.E.E.F.)
+Machine learning dashboard for predicting coral reef bleaching using environmental and climate data.
 
 ## Overview
 This project develops a machine learning enabled early warning system for coral reef bleaching.
